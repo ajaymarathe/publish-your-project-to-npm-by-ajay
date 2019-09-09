@@ -18,3 +18,5 @@ Hi There, it's just small docs to explore how to publish your project npm, Thank
 
 
 - hope this helps :)
+
+- To learn more visit :- https://zellwk.com/blog/publish-to-npm/
