@@ -11,9 +11,9 @@ Hi There, it's just small docs to explore how to publish your project npm, Thank
 ## commnads to hit
 
 `
-  npm login
-  npm init
-  npm publish
+  npm login,
+  npm init,
+  npm publish,
 `
 
 
