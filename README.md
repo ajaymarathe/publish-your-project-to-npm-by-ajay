@@ -7,6 +7,7 @@ Hi There, it's just small docs to explore how to publish your project npm, Thank
 - login with your npm login id and password.
 - then hit this command `npm init` This command runs you through a few questions and creates a package.json file for you at the end. This package.json file contains the bare necessities you need to publish your project. (Feel free to skip questions that don’t make sense).
 - Finally hit this command `npm publish`
+- to unpublish the package use `npm unpublish <package name>`
 
 ## commnads to hit
 
