@@ -1,7 +1,7 @@
-# publish-your-project-npm-by-ajay
-Hi There, it's just small docs to explore how to publish your project npm, Thanks :)
+# Publish Your Project to NPM
+Small docs to understand NPM Things :)
 
-## docs 
+## Docs 
 
 - hit this command `npm login`
 - login with your npm login id and password.
@@ -9,7 +9,7 @@ Hi There, it's just small docs to explore how to publish your project npm, Thank
 - Finally hit this command `npm publish`
 - to unpublish the package use `npm unpublish <package name>`
 
-## commnads to hit
+## Commands to hit
 
 `
   npm login,
@@ -18,6 +18,6 @@ Hi There, it's just small docs to explore how to publish your project npm, Thank
 `
 
 
-- hope this helps :)
+- Hope this helps :)
 
 - To learn more visit :- https://zellwk.com/blog/publish-to-npm/
